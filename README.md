@@ -7,7 +7,7 @@ This is my attempt at porting the 'popping and locking' theme used in iTerm2, gh
 
 ![](./screenshots/screen2.png)
 
-## ASNI Color Palette
+## ANSI Color Palette
 |Color|ANSI|
 |----|------|
 |Black|#1d2021|
