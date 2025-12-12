@@ -1,6 +1,6 @@
 id = "popping-and-locking"
 name = "Popping and Locking Theme"
-version = "0.0.1"
+version = "1.0.1"
 schema_version = 1
 authors = ["randoneering <justin@randoneering.tech>"]
 description = "An attempted port of the Popping and Locking Theme from iTerm,atom, and vscode"
